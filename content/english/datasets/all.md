@@ -7,4 +7,3 @@ menu:
 aliases:
     - /data_types/all/data/
 ---
-## Published Data

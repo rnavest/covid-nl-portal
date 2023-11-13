@@ -8,7 +8,6 @@ aliases:
     - /data_types/compound_and_target_data/
     - /data_types/compound_and_target_data/data/
 ---
-## Published Data
 
 On our portal, “Biochemistry” has a broad meaning, including cell- and plasma profiling with, for example, biomarker concentrations in plasma.
 

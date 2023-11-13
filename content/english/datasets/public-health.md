@@ -7,7 +7,6 @@ menu:
 aliases:
     - /data_types/public_health/data/
 ---
-## Published Data
 
 #### General useful data sources
 

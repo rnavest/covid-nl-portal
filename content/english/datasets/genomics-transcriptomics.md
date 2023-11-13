@@ -8,7 +8,6 @@ aliases:
     - /data_types/genomics_transcriptomics/
     - /data_types/genomics_transcriptomics/data/
 ---
-## Published Data
 
 #### Data available on the European COVID-19 Data Portal
 

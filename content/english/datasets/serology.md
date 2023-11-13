@@ -7,4 +7,4 @@ menu:
 aliases:
     - /data_types/serology/data/
 ---
-## Published Data
+
