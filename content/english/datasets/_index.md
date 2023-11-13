@@ -27,5 +27,5 @@ aliases:
     * [Published data](public-health/)
 * **Serology**
     * [Published data](serology/)
-* **Other data types**
+* **Other data**
     * [Published data](other/)

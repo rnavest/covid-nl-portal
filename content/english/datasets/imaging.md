@@ -8,7 +8,6 @@ aliases:
     - /data_types/imaging_data/
     - /data_types/imaging_data/data/
 ---
-## Published Data
 
 #### General useful data sources
 

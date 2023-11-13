@@ -5,7 +5,6 @@ menu:
         identifier: social
         name: Social science and humanities data
 ---
-## Published Data
 
 #### General useful data sources
 
