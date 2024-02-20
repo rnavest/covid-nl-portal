@@ -30,3 +30,4 @@ This [government dashboard](https://coronadashboard.government.nl/landelijk/rioo
 #### Spatial extent
 
 ![image_Netherlands](https://data.rivm.nl/meta/srv/api/records/a2960b68-9d3f-4dc3-9485-600570cd52b9/extents.png?mapsrs=epsg:3857&width=300)
+
