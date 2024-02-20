@@ -17,6 +17,8 @@ This resource contains information specific for the management of infectious dis
 
 Information is available specifically about the [resources related to infectious disease in the Netherlands](https://www.infectious-diseases-toolkit.org/national-resources/netherlands).
 
+<iframe src="https://www.infectious-diseases-toolkit.org/national-resources/netherlands" width="100%" height="500" style="border:none" title="IDTk_NL"></iframe>
+
 ### ELIXIR Research Data Management Kit (RDMkit)
 
 <div class="col-12 col-md-4 col-lg-3 d-none d-md-block">
@@ -30,6 +32,8 @@ The [ELIXIR Research Data Management Kit (RDMkit)](https://rdmkit.elixir-europe.
 Information is organised by role (e.g. researcher, data steward), scientific domain (e.g. proteomics, human data, bioimaging data), tasks (e.g. data analysis, data management plan, licensing).
 
 Information is specifically available for [research data management in the Netherlands](https://rdmkit.elixir-europe.org/nl_resources).
+
+<iframe src="https://rdmkit.elixir-europe.org/nl_resources" width="100%" height="500" style="border:none" title="IDTk_NL"></iframe>
 
 ### Other
 
